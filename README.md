@@ -52,7 +52,7 @@ Register and Test
         Copy the SMTP settings and update your .env file with the Mailtrap configuration:
 MAIL_MAILER=smtp
 MAIL_HOST=smtp.mailtrap.io
-MAIL_PORT=2525
+MAIL_PORT=587
 MAIL_USERNAME=your_username
 MAIL_PASSWORD=your_password
 MAIL_ENCRYPTION=tls
